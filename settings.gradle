@@ -1,0 +1,3 @@
+rootProject.buildFileName = "build.gradle.kts.kts"
+
+include ':presentation', ':data', ':domain'
