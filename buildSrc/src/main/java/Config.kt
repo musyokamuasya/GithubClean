@@ -1,5 +1,6 @@
 object Versions {
     const val kotlin = "1.6.0"
+    const val gradle = "7.0.4"
     internal const val androidPlugin = "7.2.0"
 
     internal const val androidxCore = "1.1.0"
